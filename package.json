@@ -2,6 +2,8 @@
   "name": "dunescript",
   "version": "1.0.1",
   "main": "index.js",
+   "type": "module",
+
   "bin": {
     "dunescript": "index.js"
   },
@@ -25,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/Khalidabdi1/dunescript"
   },
-  "homepage": "https://github.com/Khalidabdi1/dunescript"
+  "homepage": "https://github.com/Khalidabdi1/dunescript",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
 }
