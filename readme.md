@@ -26,14 +26,12 @@ Usage
 Run a simple command to check a package:
 
 bash
-نسخ
-تحرير
+
 dunescript check <package-name>
 Example:
 
 bash
-نسخ
-تحرير
+
 dunescript check express
 This command will spin up a Docker container, install the package, and run compatibility and security checks.
 
