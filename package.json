@@ -1,0 +1,29 @@
+{
+  "name": "dunescript",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "dunescript": "index.js"
+  },
+  "description": "DuneScript – A secure, containerized runtime for safely testing NPM packages using Docker isolation.",
+  "keywords": [
+    "npm",
+    "docker",
+    "compatibility",
+    "isolation",
+    "package-manager",
+    "sandbox",
+    "security",
+    "dunescript"
+  ],
+  "author": "Khalid Abdi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khalidabdi1/dunescript"
+  },
+  "bugs": {
+    "url": "https://github.com/Khalidabdi1/dunescript"
+  },
+  "homepage": "https://github.com/Khalidabdi1/dunescript"
+}
