@@ -4,7 +4,7 @@ DuneScript is a secure and isolated runtime environment for managing and verifyi
 
 ---
 
-## Features
+## Future features
 
 - Runs NPM packages inside Docker containers to isolate dependencies and environment.
 - Automatically checks compatibility with the user's Node.js version and environment.
